@@ -1,1 +1,1 @@
-# NCTUworks
+# smart-grid-competition
